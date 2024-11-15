@@ -38,3 +38,23 @@ OpenBSD, FreeBSD, NetBSD
 [link1](https://simplex.chat/contact#/?v=2-7&smp=smp%3A%2F%2FUkMFNAXLXeAAe0beCa4w6X_zp18PwxSaSjY17BKUGXQ%3D%40smp12.simplex.im%2FwL2brClvZ962j_bDFJTjkonB7S3T5_Zn%23%2F%3Fv%3D1-3%26dh%3DMCowBQYDK2VuAyEAhra6hI5AJp30PJuSAAuCceeFE4OAcUc47PRk_78Dxic%253D%26srv%3Die42b5weq7zdkghocs3mgxdjeuycheeqqmksntj57rmejagmg4eor5yd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%224QEwQ5r5UAc0Xy4-1RoWhQ%3D%3D%22%7D)
 
 [link2](https://simplex.chat/contact#/?v=2-7&smp=smp%3A%2F%2F1OwYGt-yqOfe2IyVHhxz3ohqo3aCCMjtB-8wn4X_aoY%3D%40smp11.simplex.im%2FjOhb8eihaPPqnDdgY6dC9uQphQ_A-mFC%23%2F%3Fv%3D1-3%26dh%3DMCowBQYDK2VuAyEAZX0dqCT2HqaM5uaxz7s_tLRe5EXACIdhQxkVHEUMqSM%253D%26srv%3D6ioorbm6i3yxmuoezrhjk6f6qgkc4syabh7m3so74xunb5nzr4pwgfqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22HyLhcNBJqpQ2Zv0HzbnYfQ%3D%3D%22%7D)
+
+### Linux-ru
+
+Русскоязычная группа Linux
+
+[link](https://simplex.chat/contact#/?v=2-5&smp=smp%3A%2F%2Fhpq7_4gGJiilmz5Rf-CswuU5kZGkm_zOIooSw6yALRg%3D%40smp5.simplex.im%2F5KhnHtdWd2nV6mNEF1P_H5uXcF2OF8LS%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEADCMOli0wPrEqw3NYAAwQlr-BoyptK5EErYvTsElwrx4%253D%26srv%3Djjbyvoemxysm7qxap7m5d5m35jzv5qq6gnlv7s4rsn7tdwwmuqciwpid.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22kzrSDc2ylJe1CalTHsr0bg%3D%3D%22%7D)
+
+### Yggdrasil-ru
+
+Русскоязычная группа по овелейной сети Yggdrasil. 
+
+Здесь можно использовать предлог "за"..
+
+[link](https://simplex.chat/contact#/?v=2-5&smp=smp%3A%2F%2Fhpq7_4gGJiilmz5Rf-CswuU5kZGkm_zOIooSw6yALRg%3D%40smp5.simplex.im%2FlDyD10ewNm8n_mK1rIQvrkTxN29vrg8P%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEACmA-bBlRFv_flOYjsvhIOcdxChB-E20N7bo_WAcRjgc%253D%26srv%3Djjbyvoemxysm7qxap7m5d5m35jzv5qq6gnlv7s4rsn7tdwwmuqciwpid.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22a6W-buNwRf6sjLiHa7O-3Q%3D%3D%22%7D)
+
+### i2p-ru
+
+Русскоязычная группа i2p
+
+[link](https://simplex.chat/contact#/?v=2-7&smp=smp%3A%2F%2Fhpq7_4gGJiilmz5Rf-CswuU5kZGkm_zOIooSw6yALRg%3D%40smp5.simplex.im%2FBtEFOyN47_gOMKB78mbxxmgw9_miMbXC%23%2F%3Fv%3D1-3%26dh%3DMCowBQYDK2VuAyEAgi0qCXHwfx3opgoWzYkILsl-zrnV1ZcH--dzgJFpFjg%253D%26srv%3Djjbyvoemxysm7qxap7m5d5m35jzv5qq6gnlv7s4rsn7tdwwmuqciwpid.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22f3aVtEhQUqnPxvuQm8tLfA%3D%3D%22%7D)
