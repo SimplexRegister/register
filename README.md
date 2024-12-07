@@ -58,3 +58,11 @@ OpenBSD, FreeBSD, NetBSD
 Русскоязычная группа i2p
 
 [link](https://simplex.chat/contact#/?v=2-7&smp=smp%3A%2F%2Fhpq7_4gGJiilmz5Rf-CswuU5kZGkm_zOIooSw6yALRg%3D%40smp5.simplex.im%2FBtEFOyN47_gOMKB78mbxxmgw9_miMbXC%23%2F%3Fv%3D1-3%26dh%3DMCowBQYDK2VuAyEAgi0qCXHwfx3opgoWzYkILsl-zrnV1ZcH--dzgJFpFjg%253D%26srv%3Djjbyvoemxysm7qxap7m5d5m35jzv5qq6gnlv7s4rsn7tdwwmuqciwpid.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22f3aVtEhQUqnPxvuQm8tLfA%3D%3D%22%7D)
+
+### RayLab
+
+(Mostly Russian) chat about Xray, VLESS-REALITY and other censorship circumvention tools. Share your experiences, news and memes. Don't forget about your privacy!
+
+Обсуждаем Xray, VLESS-REALITY и другие средства обхода блокировок. Делимся: опытом, новостями и мемами. Помните о безопасности!
+
+[link](https://simplex.chat/contact#/?v=2-7&smp=smp%3A%2F%2FPQUV2eL0t7OStZOoAsPEV2QYWt4-xilbakvGUGOItUo%3D%40smp6.simplex.im%2FxFVaPhqvOs0jZgynYLrPXpO2Kmfp52Ww%23%2F%3Fv%3D1-3%26dh%3DMCowBQYDK2VuAyEASZUi1MvGtUpySCszn1NKZi-E6ccgCaJ0e_-I3H0Uhjk%253D%26srv%3Dbylepyau3ty4czmn77q4fglvperknl4bi2eb2fdy2bh4jxtf32kf73yd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22v2SI_HzptsQjsO8988qOBA%3D%3D%22%7D)
