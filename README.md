@@ -44,7 +44,7 @@ OpenBSD, FreeBSD, NetBSD
 
 [link1](https://simplex.chat/contact#/?v=2-7&smp=smp%3A%2F%2FUkMFNAXLXeAAe0beCa4w6X_zp18PwxSaSjY17BKUGXQ%3D%40smp12.simplex.im%2FwL2brClvZ962j_bDFJTjkonB7S3T5_Zn%23%2F%3Fv%3D1-3%26dh%3DMCowBQYDK2VuAyEAhra6hI5AJp30PJuSAAuCceeFE4OAcUc47PRk_78Dxic%253D%26srv%3Die42b5weq7zdkghocs3mgxdjeuycheeqqmksntj57rmejagmg4eor5yd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%224QEwQ5r5UAc0Xy4-1RoWhQ%3D%3D%22%7D)
 
-[link2](https://simplex.chat/contact#/?v=2-7&smp=smp%3A%2F%2F1OwYGt-yqOfe2IyVHhxz3ohqo3aCCMjtB-8wn4X_aoY%3D%40smp11.simplex.im%2FjOhb8eihaPPqnDdgY6dC9uQphQ_A-mFC%23%2F%3Fv%3D1-3%26dh%3DMCowBQYDK2VuAyEAZX0dqCT2HqaM5uaxz7s_tLRe5EXACIdhQxkVHEUMqSM%253D%26srv%3D6ioorbm6i3yxmuoezrhjk6f6qgkc4syabh7m3so74xunb5nzr4pwgfqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22HyLhcNBJqpQ2Zv0HzbnYfQ%3D%3D%22%7D)
+[link2](https://simplex.chat/contact#/?v=2-7&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZVNn6k1QWZ5rcyr6w%3D%40smp9.simplex.im%2FKE1lNHknZKDf-t0amaTzEr3w_HMVrB7W%23%2F%3Fv%3D1-3%26dh%3DMCowBQYDK2VuAyEAa610POpyK_P7yNpcSQKsZtdzwa5YEpA9MDkrJD6aJnc%253D%26srv%3Djssqzccmrcws6bhmn77vgmhfjmhwlyr3u7puw4erkyoosywgl67slqqd.onion&data=%7B%22groupLinkId%22%3A%22AjrIzGBmLTnfIojjfEBpkQ%3D%3D%22%7D)
 
 ### Linux-ru
 
